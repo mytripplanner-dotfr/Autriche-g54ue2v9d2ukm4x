@@ -1,0 +1,358 @@
+{
+  "pays": "Autriche",
+  "drapeau": "🇦🇹",
+  "symbole": "🏔️",
+  "titre": "Mélodies Impériales et Panoramas Alpins",
+  "budget_total": "2500€",
+  "duree": "11 jours",
+  "temps_vol": "5h avec escale depuis Aeroport de grenade, espagne",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée Impériale à Vienne",
+      "legende": "Après votre vol, installez-vous confortablement dans la capitale autrichienne. Profitez de cette première journée pour une immersion douce, en vous promenant dans le cœur historique de Vienne et en vous imprégnant de son atmosphère unique. Laissez-vous charmer par l'élégance des bâtiments et la vie animée des rues pavées.",
+      "lieu": "Vienne",
+      "activites": [
+        "🛬 <strong>Arrivée à l'aéroport de Vienne et transfert</strong>: Atterrissez à l'aéroport de Vienne (VIE) et prenez le City Airport Train (CAT) ou un taxi pour rejoindre votre hôtel au centre-ville. Le trajet est rapide et efficace.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Déposez vos bagages dans votre hôtel 3 étoiles et prenez un moment pour vous rafraîchir avant de partir à la découverte de la ville.",
+        "🚶‍♂️ <strong>Balade dans le centre historique</strong>: Flânez dans les rues autour de la Cathédrale Saint-Étienne, admirez l'architecture et repérez quelques cafés pour une pause gourmande."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le City Airport Train (CAT) est le moyen le plus rapide pour rejoindre le centre de Vienne depuis l'aéroport (16 minutes)."
+        },
+        {
+          "symbole": "💶",
+          "titre": "Monnaie",
+          "texte": "La monnaie utilisée en Autriche est l'Euro (€). Les cartes de crédit sont largement acceptées."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "👑",
+      "titre": "Splendeurs Habsbourg",
+      "legende": "Plongez au cœur de l'histoire impériale autrichienne en explorant les résidences somptueuses des Habsbourg. Du faste de Schönbrunn à la grandeur de la Hofburg, cette journée vous transportera à l'époque des empereurs et des impératrices, révélant la richesse culturelle et architecturale de Vienne.",
+      "lieu": "Vienne",
+      "activites": [
+        "🏰 <strong>Visite du Palais de Schönbrunn</strong>: Explorez l'ancienne résidence d'été impériale, ses appartements d'État et ses magnifiques jardins. Ne manquez pas la Gloriette pour une vue imprenable sur le palais.",
+        "🏛️ <strong>Découverte de la Hofburg</strong>: Visitez le complexe du Palais Impérial de la Hofburg, qui abrite les appartements impériaux, le musée Sissi et la collection d'argenterie. C'est le cœur historique du pouvoir autrichien."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🎟️",
+          "titre": "Astuce",
+          "texte": "Envisagez l'achat d'un \"Vienna Pass\" si vous prévoyez de visiter de nombreux sites, cela peut être économique et vous faire gagner du temps."
+        },
+        {
+          "symbole": "☕",
+          "titre": "Pause gourmande",
+          "texte": "Goûtez à un \"Apfelstrudel\" (strudel aux pommes) dans un café traditionnel viennois, une expérience incontournable."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🎨",
+      "titre": "Art, Musique et Douceurs Viennoises",
+      "legende": "Cette journée est dédiée à l'art, à la musique et aux plaisirs gustatifs qui font la renommée de Vienne. Des chefs-d'œuvre du Belvédère à la majesté de la Cathédrale Saint-Étienne, en passant par la dégustation de la célèbre Sachertorte, laissez-vous envoûter par l'âme artistique et gourmande de la ville.",
+      "lieu": "Vienne",
+      "activites": [
+        "🖼️ <strong>Exploration du Palais du Belvédère</strong>: Admirez la collection d'art autrichien, notamment \"Le Baiser\" de Gustav Klimt, dans ce magnifique palais baroque. Les jardins sont également splendides.",
+        "⛪ <strong>Visite de la Cathédrale Saint-Étienne</strong>: Montez à la tour sud pour une vue panoramique sur Vienne et explorez l'intérieur de ce chef-d'œuvre gothique, symbole de la ville.",
+        "🍰 <strong>Dégustation de la Sachertorte</strong>: Terminez votre journée par une part de la légendaire Sachertorte au Café Sacher ou au Demel, une institution viennoise."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🎶",
+          "titre": "Soirée",
+          "texte": "Si le cœur vous en dit, assistez à un concert de musique classique ou à un opéra, Vienne est la capitale mondiale de la musique."
+        },
+        {
+          "symbole": "🚇",
+          "titre": "Transports",
+          "texte": "Le réseau de transports en commun de Vienne (métro, tram, bus) est très efficace et facile à utiliser."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🎶",
+      "titre": "Sur les Traces de Mozart",
+      "legende": "Quittez la grandeur impériale de Vienne pour la charmante ville de Salzbourg, berceau de Mozart. Après un agréable trajet en train à travers les paysages autrichiens, plongez dans l'ambiance baroque de cette cité classée au patrimoine mondial de l'UNESCO. Découvrez la maison natale du génie musical et flânez dans ses ruelles pittoresques.",
+      "lieu": "Salzbourg",
+      "activites": [
+        "🚆 <strong>Voyage en train vers Salzbourg</strong>: Prenez un train confortable de la compagnie ÖBB de Vienne à Salzbourg (environ 2h30). Profitez des paysages qui défilent.",
+        "🛏️ <strong>Installation à l'hôtel et déjeuner</strong>: Arrivée à Salzbourg, installation dans votre hôtel et déjeuner dans un restaurant local pour goûter aux spécialités régionales.",
+        "🎻 <strong>Visite de la Maison natale de Mozart</strong>: Explorez la maison où Wolfgang Amadeus Mozart est né et a passé son enfance. C'est un lieu émouvant pour les amateurs de musique classique."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🚂",
+          "titre": "Train",
+          "texte": "Réservez vos billets de train ÖBB à l'avance pour bénéficier de meilleurs tarifs et garantir votre place."
+        },
+        {
+          "symbole": "💳",
+          "titre": "Salzburg Card",
+          "texte": "La Salzburg Card offre l'accès gratuit à de nombreuses attractions et aux transports en commun. Elle est très utile pour explorer la ville."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🏰",
+      "titre": "Forteresse et Mélodies Alpines",
+      "legende": "Dominez Salzbourg depuis l'impressionnante forteresse de Hohensalzburg, offrant des vues panoramiques à couper le souffle sur la ville et les Alpes environnantes. Ensuite, laissez-vous charmer par la beauté des Jardins de Mirabell, célèbres pour leur rôle dans \"La Mélodie du Bonheur\", et imprégnez-vous de l'atmosphère unique de cette ville musicale.",
+      "lieu": "Salzbourg",
+      "activites": [
+        "⛰️ <strong>Exploration de la Forteresse de Hohensalzburg</strong>: Prenez le funiculaire pour monter à cette forteresse médiévale bien préservée. Profitez des vues spectaculaires et visitez les musées à l'intérieur.",
+        "🌸 <strong>Promenade dans les Jardins de Mirabell</strong>: Flânez dans ces magnifiques jardins baroques, célèbres pour leurs parterres fleuris, leurs statues et leur fontaine Pegasus. Un lieu de détente et de beauté.",
+        "🚶‍♀️ <strong>Découverte de la Getreidegasse</strong>: Perdez-vous dans la rue commerçante la plus célèbre de Salzbourg, avec ses enseignes en fer forgé uniques et ses boutiques traditionnelles."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🚠",
+          "titre": "Accès",
+          "texte": "Le funiculaire pour la forteresse de Hohensalzburg est inclus dans la Salzburg Card, facilitant l'accès à ce site incontournable."
+        },
+        {
+          "symbole": "🎬",
+          "titre": "Cinéma",
+          "texte": "Les Jardins de Mirabell sont un lieu emblématique du film \"La Mélodie du Bonheur\" (The Sound of Music), où plusieurs scènes ont été tournées."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🏞️",
+      "titre": "Évasion au Pays des Lacs",
+      "legende": "Échappez à l'agitation urbaine pour une excursion inoubliable dans la région du Salzkammergut, un véritable joyau naturel. Découvrez Hallstatt, un village de carte postale niché entre lac et montagnes, et explorez ses environs pittoresques. Cette journée vous offre une bouffée d'air frais et des paysages à couper le souffle, loin du tumulte.",
+      "lieu": "Hallstatt (depuis Salzbourg)",
+      "activites": [
+        "🚌 <strong>Excursion à Hallstatt</strong>: Prenez un bus ou participez à une excursion organisée pour visiter Hallstatt, l'un des plus beaux villages d'Autriche. Le trajet offre des vues magnifiques sur les lacs.",
+        "🚶‍♂️ <strong>Promenade au bord du lac et dans le village</strong>: Explorez les ruelles étroites de Hallstatt, admirez ses maisons colorées et profitez de la sérénité du lac. Ne manquez pas la vue depuis le Skywalk.",
+        "⛏️ <strong>Visite de la Mine de Sel de Hallstatt</strong>: Découvrez l'une des plus anciennes mines de sel du monde, accessible par un funiculaire. Une expérience fascinante et historique."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "👟",
+          "titre": "Conseil",
+          "texte": "Prévoyez des chaussures confortables pour marcher dans les rues pavées et les sentiers autour du lac à Hallstatt."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Photo",
+          "texte": "Le point de vue classique de Hallstatt, avec le village et l'église reflétés dans le lac, est un incontournable pour les photographes."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "⛰️",
+      "titre": "Cap sur les Alpes Tyrolliennes",
+      "legende": "Laissez derrière vous les lacs et les montagnes du Salzkammergut pour vous diriger vers Innsbruck, la capitale du Tyrol. Nichée au cœur des Alpes, cette ville offre un mélange unique d'histoire impériale et de paysages alpins grandioses. Installez-vous et commencez votre exploration par le charmant centre historique, dominé par le célèbre Toit d'Or.",
+      "lieu": "Innsbruck",
+      "activites": [
+        "🚆 <strong>Voyage en train vers Innsbruck</strong>: Prenez un train de Salzbourg à Innsbruck (environ 2h). Le trajet offre des vues spectaculaires sur les montagnes.",
+        "🛏️ <strong>Installation à l'hôtel et déjeuner</strong>: Arrivée à Innsbruck, installation dans votre hôtel et déjeuner dans la vieille ville.",
+        "🚶‍♀️ <strong>Balade dans la vieille ville et le Toit d'Or</strong>: Découvrez le centre historique d'Innsbruck, admirez le célèbre \"Goldenes Dachl\" (Toit d'Or) et les maisons colorées."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🏔️",
+          "titre": "Paysages",
+          "texte": "Le trajet en train entre Salzbourg et Innsbruck est particulièrement pittoresque, offrant des vues imprenables sur les Alpes."
+        },
+        {
+          "symbole": "💳",
+          "titre": "Innsbruck Card",
+          "texte": "La Innsbruck Card est recommandée pour accéder aux téléphériques et aux musées de la ville, souvent à un tarif avantageux."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🚠",
+      "titre": "Sommets et Panoramas",
+      "legende": "Aujourd'hui, l'aventure vous attend dans les hauteurs d'Innsbruck. Montez à bord du funiculaire et des téléphériques pour atteindre les sommets de la Nordkette, offrant des panoramas alpins à couper le souffle. Ensuite, découvrez l'architecture audacieuse du tremplin de Bergisel, un site emblématique des sports d'hiver et d'une vue imprenable sur la ville.",
+      "lieu": "Innsbruck",
+      "activites": [
+        "🏔️ <strong>Ascension de la Nordkette</strong>: Prenez le funiculaire Hungerburgbahn puis les téléphériques pour atteindre le sommet de la Nordkette. Profitez de vues panoramiques spectaculaires sur Innsbruck et les Alpes.",
+        "⛷️ <strong>Visite du Tremplin de Bergisel</strong>: Découvrez ce tremplin de saut à ski emblématique, conçu par Zaha Hadid. Montez à la tour pour une vue imprenable sur la ville et les montagnes environnantes."
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🧣",
+          "titre": "Vêtements",
+          "texte": "Même en été, les températures peuvent être fraîches en altitude. Prévoyez des vêtements chauds et une veste pour la Nordkette."
+        },
+        {
+          "symbole": "🍽️",
+          "titre": "Repas",
+          "texte": "Dégustez une \"Tiroler Gröstl\" (plat tyrolien à base de pommes de terre, viande et œuf) dans un restaurant d'altitude."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "💎",
+      "titre": "Histoire Impériale et Éclat de Cristal",
+      "legende": "Plongez dans l'histoire impériale d'Innsbruck en visitant le Palais Impérial, témoin du passé glorieux de la ville. Ensuite, laissez-vous éblouir par la magie des Mondes de Cristal Swarovski, une expérience artistique et sensorielle unique. Cette journée combine culture, histoire et une touche de fantaisie scintillante.",
+      "lieu": "Innsbruck et Wattens",
+      "activites": [
+        "👑 <strong>Visite du Palais Impérial (Hofburg)</strong>: Explorez les appartements impériaux de cette résidence des Habsbourg, qui a accueilli des figures comme l'impératrice Marie-Thérèse et Sissi.",
+        "✨ <strong>Découverte des Mondes de Cristal Swarovski</strong>: Rendez-vous à Wattens (environ 20 min en bus) pour visiter cette attraction fascinante, un univers artistique créé autour du cristal Swarovski."
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport",
+          "texte": "Un bus spécial \"Swarovski Kristallwelten Shuttle\" relie Innsbruck aux Mondes de Cristal à Wattens."
+        },
+        {
+          "symbole": "🛍️",
+          "titre": "Souvenirs",
+          "texte": "La boutique Swarovski propose une vaste gamme de produits, parfaits pour ramener un souvenir étincelant de votre voyage."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "☕",
+      "titre": "Douceurs et Derniers Adieux",
+      "legende": "Profitez de cette dernière journée complète en Autriche pour vous imprégner une dernière fois de l'atmosphère d'Innsbruck. Flânez dans les marchés locaux, savourez un café viennois dans un cadre typique et faites vos derniers achats. C'est l'occasion de se détendre et de se remémorer les moments forts de votre voyage avant le départ.",
+      "lieu": "Innsbruck",
+      "activites": [
+        "🛍️ <strong>Visite du marché local</strong>: Découvrez les produits régionaux et l'artisanat tyrolien au marché d'Innsbruck. C'est l'occasion de trouver des souvenirs authentiques.",
+        "☕ <strong>Pause café et détente</strong>: Installez-vous dans un café traditionnel pour savourer un dernier café viennois et une pâtisserie, observant la vie locale.",
+        "🎁 <strong>Derniers achats et promenade libre</strong>: Profitez-en pour acheter les derniers souvenirs ou simplement vous promener dans les rues que vous avez aimées."
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "🥨",
+          "titre": "Spécialité",
+          "texte": "Goûtez aux \"Kiachl\", des beignets tyroliens souvent servis avec de la confiture ou de la choucroute, une spécialité locale."
+        },
+        {
+          "symbole": "✈️",
+          "titre": "Aéroport",
+          "texte": "L'aéroport d'Innsbruck (INN) est bien desservi et facilement accessible depuis le centre-ville par bus ou taxi."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🛫",
+      "titre": "Départ d'Autriche",
+      "legende": "C'est le moment de dire au revoir à l'Autriche. Après un dernier petit-déjeuner autrichien, préparez-vous pour votre transfert à l'aéroport d'Innsbruck. Emportez avec vous les souvenirs des splendeurs impériales de Vienne, des mélodies de Salzbourg et des panoramas grandioses des Alpes tyroliennes.",
+      "lieu": "Innsbruck",
+      "activites": [
+        "🥐 <strong>Petit-déjeuner à l'hôtel</strong>: Profitez d'un dernier petit-déjeuner autrichien avant de commencer votre journée de départ.",
+        "🧳 <strong>Préparation et check-out</strong>: Finalisez vos bagages et effectuez le check-out de votre hôtel.",
+        "✈️ <strong>Transfert à l'aéroport d'Innsbruck et vol retour</strong>: Prenez un taxi ou un bus pour l'aéroport d'Innsbruck (INN) pour votre vol de retour vers Aeroport de grenade, espagne."
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Conseil",
+          "texte": "Prévoyez suffisamment de temps pour le transfert à l'aéroport et les formalités d'enregistrement, surtout si votre vol est tôt le matin."
+        },
+        {
+          "symbole": "🎁",
+          "titre": "Dernier souvenir",
+          "texte": "Si vous avez oublié quelque chose, l'aéroport d'Innsbruck dispose de quelques boutiques pour un dernier achat."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "400€/pers (Vol aller-retour Aeroport de grenade, espagne - Vienne/Innsbruck avec escale en classe économique)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "180€/pers (Trains interurbains, transports en commun dans les villes, bus pour Hallstatt/Swarovski)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "660€/pers (11 jours x 60€/jour pour repas de type moyen, incluant quelques cafés et pâtisseries)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "1000€/pers (10 nuits x 100€/nuit en hôtels 3 étoiles, base chambre double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "250€/pers (Entrées aux musées, palais, forteresse, mine de sel, téléphérique Nordkette, Swarovski)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de mai-juin et septembre-octobre.",
+      "symbole": "🍁"
+    },
+    {
+      "titre": "Ces mois offrent un climat agréable, moins de foule et des paysages magnifiques, notamment en automne avec les couleurs.",
+      "symbole": "☀️"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La population autrichienne est d'environ 9 millions d'habitants. La langue officielle est l'allemand, mais l'anglais est couramment parlé dans les zones touristiques.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "L'Autriche est réputée pour sa culture du café, ses pâtisseries (Sachertorte, Apfelstrudel) et sa musique classique. C'est aussi un pays alpin avec des paysages grandioses.",
+      "symbole": "☕"
+    },
+    {
+      "titre": "Les pourboires sont appréciés en Autriche, généralement 5-10% dans les restaurants et pour les services. L'eau du robinet est excellente et potable partout.",
+      "symbole": "💰"
+    },
+    {
+      "titre": "Une curiosité: les Lipizzans, célèbres chevaux blancs de l'École espagnole d'équitation de Vienne, sont une race autrichienne unique.",
+      "symbole": "🐎"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations officielles sur le tourisme en Autriche",
+      "titre": "Austria Tourism",
+      "url": "https://www.austria.info/fr",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires et réservations des trains autrichiens",
+      "titre": "ÖBB (Chemins de fer autrichiens)",
+      "url": "https://www.oebb.at/fr/",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Prévisions météo détaillées pour l'Autriche",
+      "titre": "Météo Autriche (ZAMG)",
+      "url": "https://www.zamg.ac.at/cms/de/wetter/wetter-oesterreich",
+      "symbole": "🌤️"
+    }
+  ]
+}
